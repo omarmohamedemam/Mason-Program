@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="antlr4-runtime-4.7.2.jar"/>
+	<classpathentry kind="lib" path="commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="commons-text-1.6.jar"/>
+	<classpathentry kind="lib" path="fastutil-8.2.2.jar"/>
+	<classpathentry kind="lib" path="guava-28.0-jre.jar"/>
+	<classpathentry kind="lib" path="jgrapht-bundle-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jgrapht-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jgrapht-demo-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jgrapht-ext-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jgrapht-guava-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jgrapht-io-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jgrapht-opt-1.4.0.jar"/>
+	<classpathentry kind="lib" path="jgraphx-3.9.8.1.jar"/>
+	<classpathentry kind="lib" path="jheaps-0.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
